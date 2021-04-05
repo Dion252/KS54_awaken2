@@ -1,0 +1,45 @@
+﻿<Window x:Class="AutorizBreakText.Winds.WList1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutorizBreakText.Winds"
+        mc:Ignorable="d"
+        Title="WList1" Height="600" Width="310"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Button x:Name="GoBack1" Grid.Column="2" Grid.Row="0"
+                VerticalAlignment="Top" HorizontalAlignment="Right"
+                Height="18" Width="60" Content="Назад"
+                FontSize="10" BorderThickness="1"
+                Background="White" BorderBrush="Red"
+                Click="Button_Click"/>
+
+
+        <DataGrid x:Name="DtGrid1" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2">
+
+            <DataGrid.Columns>
+                
+                
+                
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+
+    </Grid>
+    
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\bin\Debug\AutorizBreakText.exe.config
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\bin\Debug\AutorizBreakText.exe
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\bin\Debug\AutorizBreakText.pdb
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\MainWindow.g.cs
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\App.g.cs
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText_MarkupCompile.cache
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText_MarkupCompile.lref
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\MainWindow.baml
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.g.resources
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.Properties.Resources.resources
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.csproj.GenerateResource.cache
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.csproj.CoreCompileInputs.cache
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.exe
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.pdb
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\AutorizBreakText.csprojAssemblyReference.cache
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\Winds\WList1.g.cs
+C:\Users\WSR\source\repos\AutorizBreakText\AutorizBreakText\obj\Debug\Winds\WList1.baml
